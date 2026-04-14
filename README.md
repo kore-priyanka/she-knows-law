@@ -134,7 +134,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## 📬 Contact
 
-**Email:** maheshlangote779@gmail.com
+**Email:** korepriyanka779@gmail.com
 
 ---
 
